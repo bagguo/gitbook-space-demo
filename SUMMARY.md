@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Page 4](README.md)
-* [BoAT-X Framework](<README (1).md>)
+* [BoAT-X Framework](README.md)
 * [第二个页面](di-er-ge-ye-mian.md)
+* [Page 4](page-4.md)
 * [Page 3](page-3.md)
